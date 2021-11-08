@@ -7,4 +7,5 @@ dependencies:
   - scipy
   - pandas
   - jupyterlab
+  - seaborn
 prefix: C:\Users\leandrog\Anaconda3\envs\PEPy
