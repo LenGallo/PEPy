@@ -1,0 +1,10 @@
+name: PEPy
+channels:
+  - defaults
+dependencies:
+  - cartopy
+  - numpy
+  - scipy
+  - pandas
+  - jupyterlab
+prefix: C:\Users\leandrog\Anaconda3\envs\PEPy
