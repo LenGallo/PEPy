@@ -14,4 +14,4 @@
 
 
 
-Available for debugging at: https://mybinder.org/v2/gh/LenGallo/PEPy/HEAD
+Available at: https://mybinder.org/v2/gh/LenGallo/PEPy/HEAD
