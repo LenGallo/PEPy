@@ -16,4 +16,4 @@
 
 Available at: https://mybinder.org/v2/gh/LenGallo/PEPy/HEAD
 
-[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/LenGallo/PEPy/HEAD)
+[![Binder](https://mybinder.org/badge_logo.svg)](https://hub.gke2.mybinder.org/user/lengallo-pepy-7irin56a/lab/tree/Gradient-based_Euler_optimization.ipynb)
