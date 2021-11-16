@@ -13,6 +13,7 @@
 **VERSION 1.0 (11 November 2021)**
 
 
+PREPRINT : https://eartharxiv.org/repository/view/2858/
 
 Available at: [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/LenGallo/PEPy/HEAD)
 
