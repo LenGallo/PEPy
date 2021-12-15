@@ -1,6 +1,6 @@
 name: PEPy
 channels:
-  - defaults
+  - conda-forge
 dependencies:
   - cartopy
   - numpy
@@ -8,4 +8,3 @@ dependencies:
   - pandas
   - jupyterlab
   - seaborn
-prefix: C:\Users\leandrog\Anaconda3\envs\PEPy
