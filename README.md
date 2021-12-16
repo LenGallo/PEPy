@@ -2,7 +2,7 @@
 
 ## ***Jupyter Notebooks to accompany the paper:***
     
-# ***A data-driven framework for Paleomagnetic Euler Pole analysis***
+# ***An optimization method for Paleomagnetic Euler Pole analysis***
 
 ### ***by L. C. Gallo (1)*** *(l.c.gallo@geo.uio.no)* ***F. Sapienza(2) and M. Domeier(1)***
 
